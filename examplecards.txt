@@ -1,0 +1,21 @@
+Esperanto 3rd person feminine singular pronoun:ŝi
+Author of Frankenstein:Mary Shelley
+Easiest programming language:Python
+Hiragana for /a/:あ
+Spanish word for tomorrow:mañana
+1:I
+2:II
+3:III
+4:IV
+5:V
+6:VI
+7:VII
+8:VIII
+9:IX
+10:X
+50:L
+100:C
+500:D
+1000:M
+2016:MMXVI
+
